@@ -7,7 +7,7 @@ import os
 API_ENDPOINT = "https://example.com/api/create_user"  # Replace with actual API endpoint
 
 # File Paths and verifying
-MAIN_DIR = "/Users/pasinduashvin/Downloads/Assesment"
+MAIN_DIR = "/Users/pasinduashvin/Downloads/Assessment"
 CSV_FILE_PATH = os.path.join(MAIN_DIR, "users", "users.csv")  
 LOG_FILE_PATH = os.path.join(MAIN_DIR, "log", "error_log.txt")
 ROLES_FILE_PATH = os.path.join(MAIN_DIR, "roles", "roles.txt")  
