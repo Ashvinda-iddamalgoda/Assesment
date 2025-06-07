@@ -1,0 +1,40 @@
+2025-06-08 00:55:13,956 - ERROR - Failed to create user alice@example.com - Status 403
+2025-06-08 00:55:13,957 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 00:55:13,957 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 00:55:14,826 - ERROR - Failed to create user charlie@example.com - Status 403
+2025-06-08 00:59:19,643 - ERROR - Failed to create user alice@example.com - Status 403
+2025-06-08 00:59:19,645 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 00:59:19,645 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 00:59:20,555 - ERROR - Failed to create user charlie@example.com - Status 403
+2025-06-08 00:59:33,196 - ERROR - Failed to create user alice@example.com - Status 403
+2025-06-08 00:59:33,196 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 00:59:33,196 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 00:59:33,896 - ERROR - Failed to create user charlie@example.com - Status 403
+2025-06-08 01:16:53,115 - ERROR - Failed to create user Alice - Status 403
+2025-06-08 01:16:53,115 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:16:53,115 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:16:53,854 - ERROR - Failed to create user Charlie - Status 403
+2025-06-08 01:47:30,343 - ERROR - Failed to create user Alice - Status 403
+2025-06-08 01:47:30,344 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:47:30,345 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:47:31,058 - ERROR - Failed to create user Charlie - Status 403
+2025-06-08 01:47:31,810 - ERROR - Failed to create user Ashvinda - Status 403
+2025-06-08 01:47:31,811 - ERROR - Missing role in row: {'name': 'Pasindu', 'email': 'pasi@gmail.com', 'role': ''}
+2025-06-08 01:47:31,811 - ERROR - Skipping invalid user data: {'name': 'Pasindu', 'email': 'pasi@gmail.com', 'role': ''}
+2025-06-08 01:49:06,562 - ERROR - Failed to create user Alice - Status 403
+2025-06-08 01:49:06,564 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:49:06,565 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:49:07,242 - ERROR - Failed to create user Charlie - Status 403
+2025-06-08 01:49:07,944 - ERROR - Failed to create user Ashvinda - Status 403
+2025-06-08 01:49:07,944 - ERROR - Missing role in row: {'name': 'Pasindu', 'email': 'pasi@gmail.com', 'role': ''}
+2025-06-08 01:49:07,944 - ERROR - Skipping invalid user data: {'name': 'Pasindu', 'email': 'pasi@gmail.com', 'role': ''}
+2025-06-08 01:49:07,944 - ERROR - Skipping invalid user data: {'name': 'Naveen', 'email': 'nav@gmailcom', 'role': 'user'}
+2025-06-08 01:59:16,207 - ERROR - Failed to create user Alice - Status 403
+2025-06-08 01:59:16,208 - ERROR - Missing email in row: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:59:16,208 - ERROR - Skipping invalid user data: {'name': 'Bob', 'email': '', 'role': 'user'}
+2025-06-08 01:59:17,057 - ERROR - Failed to create user Charlie - Status 403
+2025-06-08 01:59:17,955 - ERROR - Failed to create user Ashvinda - Status 403
+2025-06-08 01:59:17,956 - ERROR - Missing role in row: {'name': 'Pasindu', 'email': 'pasi@gmail.com', 'role': ''}
+2025-06-08 01:59:17,956 - ERROR - Skipping invalid user data: {'name': 'Pasindu', 'email': 'pasi@gmail.com', 'role': ''}
+2025-06-08 01:59:17,956 - ERROR - Invalid email format in row: {'name': 'Naveen', 'email': 'nav@gmailcom', 'role': 'user'}
+2025-06-08 01:59:17,956 - ERROR - Skipping invalid user data: {'name': 'Naveen', 'email': 'nav@gmailcom', 'role': 'user'}
